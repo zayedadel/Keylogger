@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1529651482 source:c:\users\zayed\desktop\keyloger\keyloger\main.cpp
+	<iostream>
+	<windows.h>
+	"KeyConstants.h"
+	"Helper.h"
+	"Base64.h"
+	"IO.h"
+	"Timer.h"
+	"SendMail.h"
+	"KeybHook.h"
+
+1529439655 c:\users\zayed\desktop\keyloger\keyloger\keyconstants.h
+	<map>
+	<string>
+
+1529651390 c:\users\zayed\desktop\keyloger\keyloger\helper.h
+	<ctime>
+	<string>
+	<sstream>
+	<fstream>
+
+1529651390 c:\users\zayed\desktop\keyloger\keyloger\base64.h
+	<vector>
+	<string>
+
+1529651390 c:\users\zayed\desktop\keyloger\keyloger\io.h
+	<string>
+	<cstdlib>
+	<fstream>
+	"windows.h"
+	"Helper.h"
+	"Base64.h"
+
+1529651390 c:\users\zayed\desktop\keyloger\keyloger\timer.h
+	<thread>
+	<chrono>
+
+1529651402 c:\users\zayed\desktop\keyloger\keyloger\sendmail.h
+	<fstream>
+	<vector>
+	"windows.h"
+	"IO.h"
+	"Timer.h"
+	"Helper.h"
+
+1529651390 c:\users\zayed\desktop\keyloger\keyloger\keybhook.h
+	<iostream>
+	<fstream>
+	"windows.h"
+	"KeyConstants.h"
+	"Timer.h"
+	"SendMail.h"
+
